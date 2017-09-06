@@ -35,3 +35,17 @@ Nomadic for now
 
 It's better to regret something you have done than something you haven't
 
+# Journal
+
+Our initial toolset is designed to keep costs down and to stay out of the way
+
+ * Telegram for day to day conversation and occasional calls
+ * Trello for reminders and prioritisation
+ * A couple of cloud computing suppliers
+ * A Raspberry Pi
+ * A couple of domestic ADSL connections
+ 
+Well, I say domestic ADSL.  Mine is via squarial from the top of a nearby mountain, so it's an 'up to' 2 megs deal, depending on weather, which has been workable so far.  SSH connections don't need much bandwidth.
+
+The intermittent and spiky power supply has eaten a UPS, though.  I'm hoping that relocating will bring some stability of power and connectivity.
+
