@@ -35,7 +35,7 @@ Nomadic for now
 
 It's better to regret something you have done than something you haven't
 
-# Journal
+# Journal
 
 Our initial toolset is designed to keep costs down and to stay out of the way
 
