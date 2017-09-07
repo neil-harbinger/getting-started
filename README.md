@@ -80,7 +80,7 @@ Day 750 in the 1% a day grind and your 10 becomes 17,419.29.  Do you have motiva
 After 1,000 days of making 1% at a time, your 10 becomes 209,591.56
 
 |Day | Closing balance|
-|__|__|
+|--|--:|
 |0 | 10.00|
 |10 | 11.05|
 |100 | 27.05|
