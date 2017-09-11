@@ -16,7 +16,7 @@ Harbinger Systems provides information services for traders and investors
 
 ## Where 
 
-Nomadic for now
+Nomadic for now.  It's been suggested that we relocate to France, Ireland and Portugal who are all keen to attract startups.  Ireland's going to be our first port of call.
 
 ## When 
 
@@ -37,17 +37,19 @@ It's better to regret something you have done than something you haven't
 
 # Journal
 
-Our initial toolset is designed to keep costs down and to stay out of the way
+## Monday, September 11th, 2017
 
- * Telegram for day to day conversation and occasional calls
- * Trello for reminders and prioritisation
- * A couple of cloud computing suppliers
- * A Raspberry Pi
- * A couple of domestic ADSL connections
- 
-Well, I say domestic ADSL.  Mine is via squarial from the top of a nearby mountain, so it's an 'up to' 2 megs deal, depending on weather, which has been workable so far.  SSH connections don't need much bandwidth.
+Search time was reduced from an average of 4000ms to under 200ms !
 
-The intermittent and spiky power supply has eaten a UPS, though.  I'm hoping that relocating will bring some stability of power and connectivity.
+The next two weeks is going to be a happy kind of chaos, so it's time for a code freeze before we reconnect from a completely different location.
+
+Yoda the cat has *no idea* what's about to happen.
+
+## Friday, September 8th, 2017
+
+Friday evening in Europe was Friday morning for the west coast of North America.  Big thanks to James for spending time on Skype for a motivating and challenging chat about where Harbinger is at the moment, how we got there and where we are heading.
+
+Not sure if the pitch delivery practice is paying off, or if it's standard operating procedure in LA to react with a hearty, enthusiastic "Amen brother !" but the conversation was appreciated.
 
 ## You have enough money to trade
 
@@ -90,3 +92,17 @@ After 1,000 days of making 1% at a time, your 10 becomes 209,591.56
 |1,000 | 209,591.56|
 
 Time is money, information is power
+
+## What we're starting with
+
+Our initial toolset is designed to keep costs down and to stay out of the way
+
+ * Telegram for day to day conversation and occasional calls
+ * Trello for reminders and prioritisation
+ * A couple of cloud computing suppliers
+ * A Raspberry Pi
+ * A couple of domestic ADSL connections
+ 
+Well, I say domestic ADSL.  Mine is via squarial from the top of a nearby mountain, so it's an 'up to' 2 megs deal, depending on weather, which has been workable so far.  SSH connections don't need much bandwidth.
+
+The intermittent and spiky power supply has eaten a UPS, though.  I'm hoping that relocating will bring some stability of power and connectivity.
