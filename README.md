@@ -37,6 +37,40 @@ It's better to regret something you have done than something you haven't
 
 # Journal
 
+## Tuesday, September 12th, 2017 
+
+Reading (startup resources)[https://www.enterprise-ireland.com/en/Start-a-Business-in-Ireland/Information-Store-for-Start-ups] at Enterprise Ireland and making more revisions to our introductory copy.
+
+### Tempus est pecunia; scientia sit potentia
+
+Harbinger Systems provide information services for investors, traders and financial technology developers
+
+  - Continuous observation and analysis of market information
+  - Immediate notification when content pertaining to subscribers' investment portfolios is discovered
+  - Resilient APIs for development and integration
+
+#### Observation
+
+Market and trading information from LSE, NASDAQ and cryptocurrency exchanges is obtained from a network of real time suppliers
+
+Over 250,000 articles a month are processed, usually within two minutes of publication
+
+Add the news sources that you trust
+
+#### Analysis
+
+Harbinger Systems analysis platform determines whether content is relevant to your portfolio
+
+News articles enhance your market's price chart 
+
+Search and share our analysis
+
+#### Notification
+
+Mobile and desktop communication channels
+
+Integration with your messaging solutions
+
 ## Monday, September 11th, 2017
 
 Search time was reduced from an average of 4000ms to under 200ms !
