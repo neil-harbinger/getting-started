@@ -37,9 +37,11 @@ It's better to regret something you have done than something you haven't
 
 # Journal
 
-## Tuesday, September 12th, 2017 
+## Tuesday, September 12th, 2017 
 
-Reading (startup resources)[https://www.enterprise-ireland.com/en/Start-a-Business-in-Ireland/Information-Store-for-Start-ups] at Enterprise Ireland and making more revisions to our introductory copy.
+[Hacker News](https://news.ycombinator.com) usually has something interesting.  Today I found a free economics course at https://www.core-econ.org and [a font for placing sparkline graphs in text](http://aftertheflood.co/projects/atf-spark).
+
+Elsewhere, [startup resources](https://www.enterprise-ireland.com/en/Start-a-Business-in-Ireland/Information-Store-for-Start-ups) at Enterprise Ireland, making more revisions to our introductory copy.
 
 ### Tempus est pecunia; scientia sit potentia
 
