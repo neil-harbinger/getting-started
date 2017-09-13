@@ -1,83 +1,34 @@
 # getting-started
 
-https://creativecommons.org/licenses/by-sa/4.0/
+## Tempus est pecunia; scientia sit potentia
 
-A journal about moving a couple of thousand kilometers to a new country to start a new business
+Harbinger Systems devise information services for investors, traders and financial technology developers
 
-## Who
+We observe market and trading information from LSE, NASDAQ and cryptocurrency exchanges via a network of continuous, real time suppliers.  Over 250,000 articles a month are processed, usually within two minutes of publication.  Add the news sources that you trust.
 
-Two people who had desks near each other in a large company had some ideas
+We analyse whether content is relevant to your portfolio.  Enhance your price charts with news, search and share our analysis.
 
-## What 
+We integrate with your messaging solutions and notify you immediately when we find something relevant for you.
 
-Time is money & information is power
+Our capable, effective APIs are available for your applications and products.
 
-Harbinger Systems provides information services for traders and investors
+## Schedule
 
-## Where 
-
-Nomadic for now.  It's been suggested that we relocate to France, Ireland and Portugal who are all keen to attract startups.  Ireland's going to be our first port of call.
-
-## When 
-
-|Month |What's happening |
-|--|--|
-|September |Go full time, visit Romania |
-|October |Relocate to Ireland for six months |
-|November |Attend Web Summit in Portugal |
-|December | |
-|January | |
-|February | |
-|March | |
-|April |Attend MoneyConf in Dublin |
-
-## Why
-
-It's better to regret something you have done than something you haven't
+  * October - Relocate to Ireland
+  * November - Web Summit in Portugal
+  * April - MoneyConf in Dublin
 
 # Journal
 
 ## Wednesday, September 13th, 2017
 
-https://medium.com/startup-grind/what-every-software-engineer-should-know-about-search-27d1df99f80d
-
-Time is a limited resource.  We have the opportunity to focus for six months and see how far we can get.  Today is my last day in the office.
+Last day in the office
 
 ## Tuesday, September 12th, 2017 
 
 [Hacker News](https://news.ycombinator.com) usually has something interesting.  Today I found a free economics course at https://www.core-econ.org and [a font for placing sparkline graphs in text](http://aftertheflood.co/projects/atf-spark).
 
 Elsewhere, [startup resources](https://www.enterprise-ireland.com/en/Start-a-Business-in-Ireland/Information-Store-for-Start-ups) at Enterprise Ireland, making more revisions to our introductory copy.
-
-### Tempus est pecunia; scientia sit potentia
-
-Harbinger Systems provide information services for investors, traders and financial technology developers
-
-  - Continuous observation and analysis of market information
-  - Immediate notification when content pertaining to subscribers' investment portfolios is discovered
-  - Resilient APIs for development and integration
-
-#### Observation
-
-Market and trading information from LSE, NASDAQ and cryptocurrency exchanges is obtained from a network of real time suppliers
-
-Over 250,000 articles a month are processed, usually within two minutes of publication
-
-Add the news sources that you trust
-
-#### Analysis
-
-Harbinger Systems analysis platform determines whether content is relevant to your portfolio
-
-News articles enhance your market's price chart 
-
-Search and share our analysis
-
-#### Notification
-
-Mobile and desktop communication channels
-
-Integration with your messaging solutions
 
 ## Monday, September 11th, 2017
 
