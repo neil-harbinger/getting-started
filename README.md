@@ -37,6 +37,12 @@ It's better to regret something you have done than something you haven't
 
 # Journal
 
+## Wednesday, September 13th, 2017
+
+https://medium.com/startup-grind/what-every-software-engineer-should-know-about-search-27d1df99f80d
+
+Time is a limited resource.  We have the opportunity to focus for six months and see how far we can get.  Today is my last day in the office.
+
 ## Tuesday, September 12th, 2017 
 
 [Hacker News](https://news.ycombinator.com) usually has something interesting.  Today I found a free economics course at https://www.core-econ.org and [a font for placing sparkline graphs in text](http://aftertheflood.co/projects/atf-spark).
