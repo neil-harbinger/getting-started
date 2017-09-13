@@ -2,13 +2,13 @@
 
 ## Tempus est pecunia; scientia sit potentia
 
-Harbinger Systems devise information services for investors, traders and financial technology developers
+*Harbinger Systems devise information services for investors, traders and financial technology developers*
 
-We observe market and trading information from LSE, NASDAQ and cryptocurrency exchanges via a network of continuous, real time suppliers.  Over 250,000 articles a month are processed, usually within two minutes of publication.  Add the news sources that you trust.
+*We observe* market and trading information from LSE, NASDAQ and cryptocurrency exchanges via a network of continuous, real time suppliers.  Over 250,000 articles a month are processed, usually within two minutes of publication.  Add the news sources that you trust.
 
-We analyse whether content is relevant to your portfolio.  Enhance your price charts with news, search and share our analysis.
+*We analyse* whether content is relevant to your portfolio.  Enhance your price charts with news, search and share our analysis.
 
-We integrate with your messaging solutions and notify you immediately when we find something relevant for you.
+*We integrate* with your messaging solutions and notify you immediately when we find something relevant for you.
 
 Our capable, effective APIs are available for your applications and products.
 
