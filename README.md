@@ -20,6 +20,18 @@ Our capable, effective APIs are available for your applications and products.
 
 # Journal
 
+## Friday, October 13th
+
+First week in Ireland complete
+
+    $ mv ~ ireland
+
+Packing the house up, loading the van and driving several thousand kilometers with a cat across Spain, France and Ireland was an experience.
+
+Meanwhile, performance improvements have seen the average time to detect news halved from about four minutes to about two.  The platform should be able to cope with enough concurrent users to be viable.
+
+Web Summit is fast approaching, so we're concentrating on getting the site presentable.
+
 ## Wednesday, September 13th, 2017
 
 Last day in the office
