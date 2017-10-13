@@ -2,7 +2,7 @@
 
 ## Tempus est pecunia; scientia sit potentia
 
-**Harbinger Systems devise information services for investors, traders and financial technology developers**
+A record of the events surrounding the start of https://harbinger.systems
 
 **We observe** market and trading information from LSE, NASDAQ and cryptocurrency exchanges via a network of continuous, real time suppliers.  Over 250,000 articles a month are processed, usually within two minutes of publication.  Add the news sources that you trust.
 
@@ -12,11 +12,11 @@
 
 Our capable, effective APIs are available for your applications and products.
 
-## Schedule
+## Backlog
 
-  * October - Relocate to Ireland
-  * November - Web Summit in Portugal
-  * April - MoneyConf in Dublin
+  * Relocate to Ireland
+  * Web Summit in Portugal
+  * MoneyConf in Dublin
 
 # Journal
 
