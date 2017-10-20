@@ -20,6 +20,26 @@ Our capable, effective APIs are available for your applications and products.
 
 # Journal
 
+## Friday, October 20th
+
+The tropical storm dropped trees on the power lines and shut down power, water and communications for several days but progress was still made.
+
+Payment features for the API and firehose are in testing and article classification has started, so that neural networks can be trained.
+
+The process of registering the business started.  Registering a new business with the Revenue requires a Personal Public Service Number.  Getting a PPS number feels like a Choose Your Own Adventure book.  The experience serves as a reminder that there are still problems out there that can be resolved with web applications.
+
+Online services can verify a passport in seconds.  Let's compare that with the PPS number experience.
+
+A protracted session with the verbose but thorough 'Starting A Business' section of https://revenue.ie revealed a link to another government site, http://www.welfare.ie at which one can make an appointment with an office to get the form you need to fill in to apply for a PPS number.  'Online appointments' are offered through https://www.mywelfare.ie but without a PPSN you cannot register there to book an appointment.
+
+Digging around on the Welfare site revealed a telephone number for a help desk.  The person who answered the phone was sympathetic but unable to help.  They provided another phone number for a different office who, while unable to actually help, did know who could and provided the telephone number for that office.
+
+After confirming that the office does cover this area and having a little discussion about the reason for getting a PPS number ('I want a PPS number to register a business and register a vehicle' 'Well, which is it - do you want to start a business or register a foreign vehicle ?' 'Both, ideally') an appointment was booked for the middle of next week.  At which an official might be persuaded to provide the PPSN application form.  Maybe.
+
+Some insider advice on navigating these systems will no doubt be beneficial so a meeting with the local enterprise office is in the calendar.
+
+Looking forward to a change of pace and some calm coast air in Lisboa at https://websummit.com !
+
 ## Friday, October 13th
 
 First week in Ireland complete
