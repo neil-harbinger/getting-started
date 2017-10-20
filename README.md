@@ -14,7 +14,7 @@ Our capable, effective APIs are available for your applications and products.
 
 ## Backlog
 
-  * Relocate to Ireland
+  * ~~Relocate to Ireland~~
   * Web Summit in Portugal
   * MoneyConf in Dublin
 
@@ -34,7 +34,7 @@ A protracted session with the verbose but thorough 'Starting A Business' section
 
 Digging around on the Welfare site revealed a telephone number for a help desk.  The person who answered the phone was sympathetic but unable to help.  They provided another phone number for a different office who, while unable to actually help, did know who could and provided the telephone number for that office.
 
-After confirming that the office does cover this area and having a little discussion about the reason for getting a PPS number ('I want a PPS number to register a business and register a vehicle' 'Well, which is it - do you want to start a business or register a foreign vehicle ?' 'Both, ideally') an appointment was booked for the middle of next week.  At which an official might be persuaded to provide the PPSN application form.  Maybe.
+After confirming that the office does cover this area and having a little discussion about the reason for getting a PPS number ('I want a PPS number to register a business and register a vehicle' 'Well, which is it - do you want to start a business or register a vehicle ?' 'Both, ideally') an appointment was booked for the middle of next week.  At which an official might be persuaded to provide the PPSN application form.  Maybe.
 
 Some insider advice on navigating these systems will no doubt be beneficial so a meeting with the local enterprise office is in the calendar.
 
