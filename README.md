@@ -20,7 +20,17 @@ Our capable, effective APIs are available for your applications and products.
 
 # Journal
 
-## Friday, October 20th
+## Monday, October 23rd, 2017
+
+Happy to get a first, refreshing view of the site design.
+
+After a flurry of last minute checks, everything's booked for https://websummit.com.  We just have to charge lots of batteries and get to the airport.
+
+So far, architecture automation has been entirely in Bash and it's been fast and reliable.  To get to the next mangnitude of speed, a choice has to be made between the higher level language API client libraries that are available.   It's possible with Bash, but it's good to take the opportunity to try out a new language once in a while.  After discarding the non-starters - thanks but no thanks .Net - it boils down to a choice between Go and NodeJS.
+
+It's an experiment and we're already using lots of NodeJS so [Go wins this round](https://golang.org) !
+
+## Friday, October 20th, 2017
 
 The tropical storm dropped trees on the power lines and shut down power, water and communications for several days but progress was still made.
 
@@ -40,7 +50,7 @@ Some insider advice on navigating these systems will no doubt be beneficial so a
 
 Looking forward to a change of pace and some calm coast air in Lisboa at https://websummit.com !
 
-## Friday, October 13th
+## Friday, October 13th, 2017
 
 First week in Ireland complete
 
