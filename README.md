@@ -35,7 +35,7 @@ We didn't need go-lang in the end as the Bash client proved eminently capable.
 It's been a while since the last update but we've been in Portugal at Web Summit.  A truly international event on a massive scale, with something like sixty thousand attendees contained a diversity of interesting people, ideas, products and services.  We attended workshops, talks and joined conversations about all manner of topics usually circling back to artificial intelligence and machine learning.  In the stands, we met 
 
   * vmWare Wavefront challenging Prometheus
-  * https://cocovan.it renting campervans
+  * https://www.cocovan.it renting campervans
   * https://fullcontact.com compile data from a couple of hundred social networks and make it available by name, email or phone number
   * https://dyvr.in make writing location aware
   * https://bcaster.com make video location aware
