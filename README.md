@@ -62,9 +62,9 @@ It's been a while since the last update but we've been in Portugal at Web Summit
   * imby.bio have started on the digital almanac
   * nido.io build underwater drones
 
-Web Summit gave us the opportunity to pitch to the Shiven Ramji, head of product for Digital Ocean, which was challenging and informative.  He offered some encouragement, suggestions and useful criticism.  Gustav at Google set up a meeting with jetstack.io to talk Kubernetes. Good to compare ideas and directions. Amazon introduced us to a solutions architect and invited us to apply for their Activate program for startups.
+The new remix of the web site was polished up in time to appear with us at Web Summit.  We got to demo to Shiven Ramji, head of product for Digital Ocean, which was challenging and informative.  He offered some encouragement, suggestions and useful criticism.  Gustav at Google set up a meeting with jetstack.io to talk Kubernetes. Good to compare ideas and directions. Amazon introduced us to a splendid solutions architect and invited us to apply for their Activate program for startups.
 
-Lisbon is a thoroughly enjoyable city.  Excellent mushroom and truffle pizza at the market, so much street art, views from the turrets of Castelo de San Jorge, good music, friendly people, cheap transport.
+Lisbon is a thoroughly enjoyable city.  Excellent mushroom and truffle pizza at the market, so much street art, views from the turrets of Castelo de San Jorge, good music, friendly people, cheap transport. Go there.
 
 Back at base, the local enterprise office in Cork are helping us find mentoring so we can start validating our non-technical plans and strategies.  We've talked to a number of accountants to get an understanding of the company registration process and get an idea of costs.  A long night in Lisbon got us a first attempt at revenue forecasting based on our market research so far.  I know, I know - we get time in Portugal and end up sat in front of spreadsheets.  We know how to rock a party ;)
 
