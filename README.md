@@ -35,32 +35,32 @@ We didn't need go-lang in the end as the Bash client proved eminently capable.
 It's been a while since the last update but we've been in Portugal at Web Summit.  A truly international event on a massive scale, with something like sixty thousand attendees contained a diversity of interesting people, ideas, products and services.  We attended workshops, talks and joined conversations about all manner of topics usually circling back to artificial intelligence and machine learning.  In the stands, we met 
 
   * vmWare Wavefront challenging Prometheus
-  * cocovan.it renting campervans
-  * fullcontact.com compile data from a couple of hundred social networks and make it available by name, email or phone number
-  * dyvr.in make writing location aware
-  * bcaster.com make video location aware
-  * daplie.com make little round servers
-  * algolia.com get the hacker news hug-of-death every day
-  * btc.com have a cryptocurrency API called Block Trail
-  * archisketch.com build 3D models of rooms with a neat handheld optical device
-  * sendgrid.com deliver email at scale
-  * startupleague.online help startups attend conferences 
-  * kleeia.com getting handicrafts to clients
-  * faberexpert.com renovate properties
-  * diocian.com release music in Korea
-  * datavora.com provide metrics on e-commerce products
-  * gbx.gi are starting a cryptocurrency exchange in Gibraltar
-  * rael.org channel information from advanced human scientists from another world
-  * vanillasm.com specialise in social media marketing
-  * criaterra.com offer an alternative to concrete
-  * 100m.io monitor your portfolio
-  * dali-vr.com create virtual objects from data
-  * wondercover-games.com make boardgames for tablets
-  * linksquare.io built a handheld spectrometer
-  * uav.skyeton.com live-stream full HD video from an autonomous flying UAV at a range of 150 kilometers
-  * lancktele.com deliver SMS from Russia to the world
-  * imby.bio have started on the digital almanac
-  * nido.io build underwater drones
+  * <cocovan.it> renting campervans
+  * <fullcontact.com> compile data from a couple of hundred social networks and make it available by name, email or phone number
+  * <dyvr.in> make writing location aware
+  * <bcaster.com> make video location aware
+  * <daplie.com> make little round servers
+  * <algolia.com> get the hacker news hug-of-death every day
+  * <btc.com> have a cryptocurrency API called Block Trail
+  * <archisketch.com> build 3D models of rooms with a neat handheld optical device
+  * <sendgrid.com> deliver email at scale
+  * <startupleague.online> help startups attend conferences 
+  * <kleeia.com> getting handicrafts to clients
+  * <faberexpert.com> renovate properties
+  * <diocian.com> release music in Korea
+  * <datavora.com> provide metrics on e-commerce products
+  * <gbx.gi> are starting a cryptocurrency exchange in Gibraltar
+  * <rael.org> channel information from advanced human scientists from another world
+  * <vanillasm.com> specialise in social media marketing
+  * <criaterra.com> offer an alternative to concrete
+  * <100m.io> monitor your portfolio
+  * <dali-vr.com> create virtual objects from data
+  * <wondercover-games.com> make boardgames for tablets
+  * <linksquare.io> built a handheld spectrometer
+  * <uav.skyeton.com> live-stream full HD video from an autonomous flying UAV at a range of 150 kilometers
+  * <lancktele.com> deliver SMS from Russia to the world
+  * <imby.bio> have started on the digital almanac
+  * <nido.io build> underwater drones
 
 The new remix of the web site was polished up in time to appear with us at Web Summit.  We got to demo to Shiven Ramji, head of product for Digital Ocean, which was challenging and informative.  He offered some encouragement, suggestions and useful criticism.  Gustav at Google set up a meeting with jetstack.io to talk Kubernetes. Good to compare ideas and directions. Amazon introduced us to a splendid solutions architect and invited us to apply for their Activate program for startups.
 
