@@ -4,7 +4,15 @@
 
 A record of the events surrounding the start of https://harbinger.systems
 
-**We observe** market and trading information from LSE, NASDAQ and cryptocurrency exchanges via a network of continuous, real time suppliers.  Over 250,000 articles a month are processed, usually within two minutes of publication.  Add the news sources that you trust.
+### What we do
+
+Our service quickly notifies investors and traders when we discover news articles about the shares, stocks, forex and crypto investments.  
+
+### How we do it
+
+We ingest a quarter of a million articles from a thousand online news sources each month and usually deliver a notification within two minutes of the first publication of news relevant to your investment interests.
+
+**We observe** market and trading information from LSE, NASDAQ and cryptocurrency exchanges via a network of continuous, real time suppliers.  Add the news sources that you trust.
 
 **We analyse** whether content is relevant to your portfolio.  Enhance your price charts with news, search and share our analysis.
 
@@ -12,13 +20,53 @@ A record of the events surrounding the start of https://harbinger.systems
 
 Our capable, effective APIs are available for your applications and products.
 
-## Backlog
+## Our backlog
 
   * ~~Relocate to Ireland~~
-  * Web Summit in Portugal
+  * ~~Web Summit in Portugal~~
   * MoneyConf in Dublin
 
 # Journal
+
+## Tuesday, November 14th, 2017 
+
+We didn't need go-lang in the end as the Bash client proved eminently capable.
+
+It's been a while since the last update but we've been in Portugal at Web Summit.  A truly international event on a massive scale, with something like sixty thousand attendees contained a diversity of interesting people, ideas, products and services.  We attended workshops, talks and joined conversations about all manner of topics usually circling back to artificial intelligence and machine learning.  In the stands, we met 
+
+  * vmWare Wavefront challenging Prometheus
+  * cocovan.it renting campervans
+  * fullcontact.com compile data from a couple of hundred social networks and make it available by name, email or phone number
+  * dyvr.in make writing location aware
+  * bcaster.com make video location aware
+  * daplie.com make little round servers
+  * algolia.com get the hacker news hug-of-death every day
+  * btc.com have a cryptocurrency API called Block Trail
+  * archisketch.com build 3D models of rooms with a neat handheld optical device
+  * sendgrid.com deliver email at scale
+  * startupleague.online help startups attend conferences 
+  * kleeia.com getting handicrafts to clients
+  * faberexpert.com renovate properties
+  * diocian.com release music in Korea
+  * datavora.com provide metrics on e-commerce products
+  * gbx.gi are starting a cryptocurrency exchange in Gibraltar
+  * rael.org channel information from advanced human scientists from another world
+  * vanillasm.com specialise in social media marketing
+  * criaterra.com offer an alternative to concrete
+  * 100m.io monitor your portfolio
+  * dali-vr.com create virtual objects from data
+  * wondercover-games.com make boardgames for tablets
+  * linksquare.io built a handheld spectrometer
+  * uav.skyeton.com live-stream full HD video from an autonomous flying UAV at a range of 150 kilometers
+  * lancktele.com deliver SMS from Russia to the world
+  * imby.bio have started on the digital almanac
+  * nido.io build underwater drones
+
+Web Summit gave us the opportunity to pitch to the Shiven Ramji, head of product for Digital Ocean, which was challenging and informative.  He offered some encouragement, suggestions and useful criticism.  Gustav at Google set up a meeting with jetstack.io to talk Kubernetes. Good to compare ideas and directions. Amazon introduced us to a solutions architect and invited us to apply for their Activate program for startups.
+
+Lisbon is a thoroughly enjoyable city.  Excellent mushroom and truffle pizza at the market, so much street art, views from the turrets of Castelo de San Jorge, good music, friendly people, cheap transport.
+
+Back at base, the local enterprise office in Cork are helping us find mentoring so we can start validating our non-technical plans and strategies.  We've talked to a number of accountants to get an understanding of the company registration process and get an idea of costs.  A long night in Lisbon got us a first attempt at revenue forecasting based on our market research so far.  I know, I know - we get time in Portugal and end up sat in front of spreadsheets.  We know how to rock a party ;)
 
 ## Monday, October 23rd, 2017
 
