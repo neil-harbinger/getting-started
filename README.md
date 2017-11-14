@@ -60,7 +60,7 @@ It's been a while since the last update but we've been in Portugal at Web Summit
   * https://uav.skyeton.com live-stream full HD video from an autonomous flying UAV at a range of 150 kilometers
   * https://lancktele.com deliver SMS from Russia to the world
   * https://imby.bio have started on the digital almanac
-  * https://nido.io build underwater drones
+  * https://nido.ai build underwater drones
 
 The new remix of the web site was polished up in time to appear with us at Web Summit.  We got to demo to Shiven Ramji, head of product for Digital Ocean, which was challenging and informative.  He offered some encouragement, suggestions and useful criticism.  Gustav at Google set up a meeting with jetstack.io to talk Kubernetes. Good to compare ideas and directions. Amazon introduced us to a splendid solutions architect and invited us to apply for their Activate program for startups.
 
