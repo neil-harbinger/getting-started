@@ -28,6 +28,32 @@ Our capable, effective APIs are available for your applications and products.
 
 # Journal
 
+## Friday, November 22nd, 2017
+
+"Life moves pretty fast sometimes.  If you don't stop and look around once in a while, you could miss it." -- Ferris Bueller
+
+We're looking for a hundred users to provide feedback.  You want in, sign up.
+
+After relaxing with a functional service, we are now facing a class of challenges I call Matroshkas because each one has another inside it.  Matroshkas cause recursive to-do lists, late nights, forgetfulness and irritation if you let them.  Hot food, solid sleep and fresh air help.
+
+To get money from subscribers, we need to hook the payment system into a business bank account.  To get a bank account, we need to register with the revenue, file initial returns and so on.  To register, we need to decide on the legal structure ... and so on.  Wheels within wheels.
+
+If we only accept crypto-currencies, we don't need a bank account or any of the other processes and structures required by fiat transactions.  I'm looking at you, VAT MOSS.  We could save lots of time and concentrate on the service, so we've set up a Bitcoin wallet.  Tell us if you want to use it.
+
+Tell us other things too ! Which messengers should we integrate with first ? Which markets do you want activating ? Which news sources shall we watch ?  We'll be running a bunch of surveys, but feel free to just get in touch and tell us.
+
+We have met our mentor and already gained pragmatic, grounding advice.  We're amping up our market and competition analysis to improve the business plan and the revenue forecasts.
+
+We've visited Paul Healy at the Rubicon Centre at Cork Institute of Technology.  Nice place, productive meeting.
+
+We talked to lots of accountants in Cork and think we've chosen the right one.  Open, helpful, knowledgable, thorough and responsive.
+
+Our application for AWS Activate Builders program was successful.
+
+We applied for Dublin Tech Summit 2018 but it's way too expensive to take a stall.  Maybe we just visit.
+
+I'm @neilharbinger on Twitter.  Tell me about if you'd pay with Bitcoin, what messengers you use, if it's worth attending Dublin Tech Summit, if there are sources we should be watching and people we should be talking to and most of all, if you want to be one of the hundred who get access to the product early.
+
 ## Tuesday, November 14th, 2017 
 
 We didn't need go-lang in the end as the Bash client proved eminently capable.
