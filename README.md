@@ -28,7 +28,7 @@ Our capable, effective APIs are available for your applications and products.
 
 # Journal
 
-## Friday, November 22nd, 2017
+## Friday, November 22nd, 2017
 
 "Life moves pretty fast sometimes.  If you don't stop and look around once in a while, you could miss it." -- Ferris Bueller
 
