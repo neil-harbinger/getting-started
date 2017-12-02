@@ -28,6 +28,29 @@ Our capable, effective APIs are available for your applications and products.
 
 # Journal
 
+## Saturday, December 2nd, 2017
+
+We discussed the people who will use Harbinger in depth in a series of conversations with Max[1], looking at the service from different perspectives and throwing our ideas together into a collaborative whiteboard[2].
+
+We're considering engaging a copy writer to improve our enthusiastic scribblings.  Any suggestions ?
+
+The analysis platform gained new data from NASDAQ and new filtering functionality, so watching markets will be easier.  
+
+The notification platform got some useful abstraction which will make life easier when we plug into ... whatever messenger systems we're using in a couple of years.
+
+Connecting to the Harbinger bot on Telegram got much easier.
+
+Harbinger spotted an article from Reuters[3] criticising quality at Tesla.  Sure enough, the stock fell from 317 to 302 over the following three hours.  Bitcoin obviously but even The Sun is covering that.
+
+Wondering what Harbinger would look like in VR[4] ?
+
+Throw a log on the fire, set trading alarms and commit code.  Onward.
+
+[1] https://twitter.com/ionutmaxim
+[2] https://realtimeboard.com
+[3] https://harbinger.systems/news/8672043/link
+[4] https://vimeo.com/240982427
+
 ## Friday, November 22nd, 2017
 
 "Life moves pretty fast sometimes.  If you don't stop and look around once in a while, you could miss it." -- Ferris Bueller
