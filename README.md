@@ -47,8 +47,11 @@ Wondering what Harbinger would look like in VR[4] ?
 Throw a log on the fire, set trading alarms and commit code.  Onward.
 
 [1] https://twitter.com/ionutmaxim
+
 [2] https://realtimeboard.com
+
 [3] https://harbinger.systems/news/8672043/link
+
 [4] https://vimeo.com/240982427
 
 ## Friday, November 22nd, 2017
