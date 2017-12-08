@@ -28,6 +28,30 @@ Our capable, effective APIs are available for your applications and products.
 
 # Journal
 
+## Friday, December 8th, 2017
+
+### Harbinger Notification Of The Week
+
+At 0832 today Harbinger triggered a notification for FX:EUR-GBP when the Financial Times published an article about the the UK reaching a milestone agreement with the EU regarding their exit strategy.  Five minutes later, the rate jumped from below 0.8705 to over 0.872.  Join us at https://harbinger.systems.
+
+### Progress
+
+Harbinger is now integrated with that lowest common denominator of communications, electronic mail.  Not everyone has Telegram or Discord or whatever it is people are using instead of Skype right now. This might be the corollary of Zawinski's Law. http://catb.org/jargon/html/Z/Zawinskis-Law.html
+
+We found that some of the ideas we've grown used to over time are difficult to describe to people who are unfamiliar with our service.  This isn't uncommon when people focus on a specific area for a while, accept a local lingua franca and normalise their own language to efficiently discuss that area.  We adopted terms based in our personal experiences, which turned out to be confusing to other people.
+
+When we went to find out what names and terms other people in the world use, we found that there's plenty of discussion and a heap of different answers.  We learned about assets, securities, vehicles, opportunities, markets, the exchange of value and many more things.  Turns out that the SEC had a similar problem, but we didn't end up using half a paragraph that included the word projects in double quotes.
+
+All this learning informed prototypes cobbled together in a 30-day trial from https://sketchapp.com.  Simple to use, reminiscent of Macromedia's Flash interface and a time when all this was fields.
+
+### Plans
+
+Ssh ! Secret management is on the agenda, more work on the interface and something to do with commodities.
+
+### Footnotes
+
+https://soundcloud.com/harbinger/harbinger-99-coins has been today's soundtrack for infrastructure upgrades.  The name is a total coincidence.
+
 ## Saturday, December 2nd, 2017
 
 We discussed the people who will use Harbinger in depth in a series of conversations with Max[1], looking at the service from different perspectives and throwing our ideas together into a collaborative whiteboard[2].
